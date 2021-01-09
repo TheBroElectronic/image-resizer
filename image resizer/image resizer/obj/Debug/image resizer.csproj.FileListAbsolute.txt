@@ -1,0 +1,9 @@
+D:\visual studi\img resizer\image resizer\image resizer\bin\Debug\image resizer.exe.config
+D:\visual studi\img resizer\image resizer\image resizer\bin\Debug\image resizer.exe
+D:\visual studi\img resizer\image resizer\image resizer\bin\Debug\image resizer.pdb
+D:\visual studi\img resizer\image resizer\image resizer\obj\Debug\image resizer.csprojResolveAssemblyReference.cache
+D:\visual studi\img resizer\image resizer\image resizer\obj\Debug\image_resizer.Form1.resources
+D:\visual studi\img resizer\image resizer\image resizer\obj\Debug\image_resizer.Properties.Resources.resources
+D:\visual studi\img resizer\image resizer\image resizer\obj\Debug\image resizer.csproj.GenerateResource.Cache
+D:\visual studi\img resizer\image resizer\image resizer\obj\Debug\image resizer.exe
+D:\visual studi\img resizer\image resizer\image resizer\obj\Debug\image resizer.pdb
